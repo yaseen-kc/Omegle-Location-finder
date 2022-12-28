@@ -8,13 +8,7 @@ The getLocation function uses the ipgeolocation.io API to retrieve geolocation i
 
 The getLocation function then logs the retrieved location information to the console in the following format:
 
----------------------
-Country: <country_name>
-State: <state_prov>
-City: <city>
-District: <district>
-Lat / Long: (<latitude>, <longitude>)
----------------------
+
 
 
 # Note
